@@ -45,15 +45,12 @@ In this project, I set up a "Hello world" repository. No complex coding is done 
 ### Tech Stack <a name="tech-stack"></a>
 
 
-
-<details>
-  <summary>Client</summary>
   <ul>
      <li>Linters</li>
     <li>CSS3</li>
     <li>HTML5</li>
   </ul>
-</details>
+
 
 
 
